@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#f2e5bd"/>
+  <!-- 小恐龙图标：身体 -->
+  <ellipse cx="256" cy="316" rx="128" ry="104" fill="#7dc98f"/>
+  <!-- 背鳍 -->
+  <path d="M160 236 l24 -44 24 44 z M216 212 l24 -44 24 44 z M272 212 l24 -44 24 44 z M328 236 l24 -44 24 44 z" fill="#5aa86e"/>
+  <!-- 眼睛 -->
+  <circle cx="216" cy="288" r="18" fill="#fff"/>
+  <circle cx="296" cy="288" r="18" fill="#fff"/>
+  <circle cx="220" cy="292" r="9" fill="#3d3830"/>
+  <circle cx="300" cy="292" r="9" fill="#3d3830"/>
+  <!-- 腮红 -->
+  <ellipse cx="188" cy="330" rx="16" ry="10" fill="#f0b4a0"/>
+  <ellipse cx="324" cy="330" rx="16" ry="10" fill="#f0b4a0"/>
+  <!-- 微笑 -->
+  <path d="M232 332 q24 20 48 0" stroke="#3d3830" stroke-width="8" stroke-linecap="round" fill="none"/>
+</svg>
